@@ -1,0 +1,16 @@
+{
+  "product": [
+    {
+      "name":"Herschel supply",
+      "price":"56.00",
+      "country":"Tunisia",
+      "description":"Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat."
+    },
+    {
+      "name":"tarboucha",
+      "price":"16.00",
+      "country":"Kenya",
+      "description":"this is a tarboucha"
+    }
+  ]
+}
